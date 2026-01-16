@@ -1,0 +1,15 @@
+header {
+    margin: auto;
+    text-align: center;
+}
+
+section {
+    margin: auto;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.623);
+    border-radius: 15px;
+    width: 200pt;
+    
+    padding: 20pt;
+    
+}
